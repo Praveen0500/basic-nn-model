@@ -50,8 +50,7 @@ Evaluate the model with the testing data.
 ## PROGRAM
 ### Name:DINESH KUMAR R
 ### Register Number: 212222110010
-python
-```
+```python
 # Importing Modules:
 
 from google.colab import auth
